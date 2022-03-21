@@ -1,5 +1,5 @@
 ### Hi there 👋
-데이터마이닝 수업 중
+- 데이터마이닝 수업 중
 
 <!--
 **chunbaeCho/chunbaeCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
